@@ -5,7 +5,7 @@ const Home = ()=>{
     return (
         <>
         <div className="login-bar">
-            <h1>Login</h1>
+            <h1>Login With Soyam</h1>
             <input type="text" placeholder="Username" />
             <input type="password" placeholder="Passwored" />
             <div className="login-btn">Login</div> 
